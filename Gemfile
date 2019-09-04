@@ -5,6 +5,7 @@ ruby '2.6.1'
 gem 'mongoid', '~> 6.0'
 gem 'bson_ext'
 gem 'bootstrap-sass', '~> 3.3.6'  
+gem 'bootstrap', '~> 4.3.1'
 
 gem "devise"
 gem 'jquery-rails'
